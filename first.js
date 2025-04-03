@@ -5,3 +5,6 @@ const login = "login page added";
 console.log(login);
 
 const payement = "integrated the payement gateway";
+
+const upi = "Integrated the Upi ";
+console.log(upi);
