@@ -16,3 +16,7 @@ console.log(footer);
 
 console.log("latest update");
 
+
+//I am fixing some bugs
+console.log("Bug Fix");
+
